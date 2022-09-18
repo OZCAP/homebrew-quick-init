@@ -1,9 +1,9 @@
 class QuickInit < Formula
-    desc "React project generator with auto Tailwind configuration"
+    desc "React/Next.js project generator with automatic Tailwind configuration"
     homepage "https://github.com/ozcap/quick-init"
-    url "https://github.com/OZCAP/quick-init/releases/download/v0.2.0/quick-init-mac.tar.gz"
-    sha256 "cc625e71af1e02b6492cde7ac0e071c530bc1c989711dbaa373372d823b77794"
-    version "0.2.0"
+    url "https://github.com/OZCAP/quick-init/releases/download/v0.3.0/quick-init-mac.tar.gz"
+    sha256 "d5489c43c899d4d1d4cf5d00c0ee8782a3bacc218de7bd1b237f322f479efeda"
+    version "0.3.0"
   
     def install
       bin.install "quick-init"
