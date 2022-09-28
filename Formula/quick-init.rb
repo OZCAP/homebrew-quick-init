@@ -3,7 +3,7 @@ class QuickInit < Formula
     homepage "https://github.com/ozcap/quick-init"
     url "https://github.com/OZCAP/quick-init/releases/download/v0.3.0/quick-init-mac.tar.gz"
     sha256 "80da8315dafed9ec260356e96720c894d95c0e7dda3ed29353a19dc5d931ee36"
-    version "0.3.0"
+    version "0.3.1"
     
     depends_on "node"
   
